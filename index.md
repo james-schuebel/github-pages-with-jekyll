@@ -4,5 +4,5 @@ title: "Welcome to my blog"
 
 I'm glad you are here. I plan to talk about ...
 Hello World 2
-work you piece of shit
+
 
